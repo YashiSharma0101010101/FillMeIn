@@ -1,0 +1,27 @@
+
+
+*{
+    background-color: pink;
+    font-family: 'Lobster', cursive;
+
+}
+
+.btn{
+    background-color:rebeccapurple;
+    border-radius: 10px;
+    padding: 20px;
+    margin:20px;
+}
+.main {
+    text-align: center;
+    margin-top:120px;
+    margin-bottom: 120px;
+}
+.btn:hover{
+    background-color: blue;
+}
+
+
+
+    
+
